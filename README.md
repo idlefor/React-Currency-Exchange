@@ -45,8 +45,7 @@ Focusing on data integrity and user experience, the feed displays real-time cont
 
 ---
 
-
-##💡 Engineering Highlights
-Error Resilience: Implemented optional chaining (?.) and fallback data arrays to ensure the UI remains stable even if API data is malformed.
-Maintainability: Refactored from inline styles to a centralized App.css architecture to follow industry-standard "Separation of Concerns."
-Efficiency: Used Object.keys mapping for dynamic dropdown generation and optimized the React lifecycle to prevent unnecessary re-render
+## 💡 Engineering Highlights
+- Error Resilience: Implemented optional chaining (?.) and fallback data arrays to ensure the UI remains stable even if API data is malformed.
+- Maintainability: Refactored from inline styles to a centralized App.css architecture to follow industry-standard "Separation of Concerns."
+- Efficiency: Used Object.keys mapping for dynamic dropdown generation and optimized the React lifecycle to prevent unnecessary re-render
